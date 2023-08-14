@@ -13,7 +13,7 @@ These goals present a unique real-world Machine Learning prediction problem and 
 
 # Datasets
 We have used two datasets 
-Finance_Data.csv - https://github.com/nikkipatel19/finalproject/blob/main/Finance_Data.csv
+Finance_Data.csv - https://github.com/nikkipatel19/MLP_Final_Project/blob/main/Dataset/Finance_Data.csv
 IMDB_dataset.csv - https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
 
 # Tools, Software and Libraries
@@ -51,7 +51,8 @@ We tried multiple classifiers and  After trying with all that ,we have compared 
 
 we tested the methodology of the selected research paper on new datasets to evaluate its effectiveness in different contexts.
 
-After installing all the necessary libraries, mentioned above, run https://github.com/nikkipatel19/finalproject/blob/main/IMDB_Movie_Review.ipynb For getting the same output as research paper code.
+After installing all the necessary libraries mentioned above, download the IMDB_Dataset file from the link given above.
+run https://github.com/nikkipatel19/finalproject/blob/main/IMDB_Movie_Review.ipynb For getting the same output as research paper code.
 
 
 # References 
